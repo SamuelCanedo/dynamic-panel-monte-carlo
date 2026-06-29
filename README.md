@@ -1,6 +1,6 @@
 # Econometrics: Dynamic Panel Data Monte Carlo Simulation (Nickell Bias)
 
-This repository hosts a high-performance econometric simulation framework designed to analyze, visualize, and benchmark the finite-sample performance of estimators in dynamic panel data models. Specifically, the infrastructure uses **Monte Carlo simulations** to quantify the mathematical breakdown of standard estimators under the presence of **Nickell Bias** ($O(1/T)$) in autoregressive AR(1) environments.
+This repository hosts a high-performance econometric simulation framework designed to analyze, visualize, and benchmark the finite-sample performance of estimators in dynamic panel data models. Specifically, the infrastructure uses **Monte Carlo simulations** to quantify the mathematical breakdown of standard estimators under the presence of **Nickell Bias** (O(1/T)) in autoregressive AR(1) environments.
 
 ---
 
